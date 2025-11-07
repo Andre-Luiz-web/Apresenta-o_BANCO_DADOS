@@ -2,6 +2,8 @@
 
 Repositório da atividade da disciplina de Banco de Dados.
 
+GRUPO 07
+
 ## Integrantes
 
 André Luiz Pereira de Sousa
