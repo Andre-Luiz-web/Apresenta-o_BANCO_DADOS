@@ -6,11 +6,11 @@ GRUPO 07
 
 ## Integrantes
 
-André Luiz Pereira de Sousa
-Rafael Chaves Borges
-Raí Lugano Angelim
-João Pedro Pereira Albuquerque
-João Pedro Jardins 
+André Luiz Pereira de Sousa /
+Rafael Chaves Borges /
+Raí Lugano Angelim /
+João Pedro Pereira Albuquerque /
+João Pedro Jardins /
 
 ## Link do vídeo
 
